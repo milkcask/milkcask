@@ -26,7 +26,7 @@
 - Cryptography
 - LLM generated CSS
 
-💬 I speaks ...
+👩🏻‍💻 I speaks ...
 - TypeScript/JavaScript
 - Rust
 - A bit of... Python, Go, etc
