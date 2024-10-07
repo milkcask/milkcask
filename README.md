@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m currently involved ...
+🔭 I’m currently patching ...
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [deno](https://github.com/denoland/deno)
+- [petgraph](https://github.com/petgraph/petgraph)
 - [kew](https://github.com/milkcask/kew)
 
 🌱 I used to be active ...
@@ -17,7 +18,6 @@
 
 🤔 Random snippets of code that is quite fun...
 - [random-snippets](https://github.com/milkcask/random-snippets)
-- [petgraph](https://github.com/petgraph/petgraph)
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌
