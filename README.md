@@ -21,11 +21,12 @@
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌
+- Web foundations and standards
+- Cryptography
+- LLM generated CSS
 
 💬 I speaks ...
 - TypeScript/JavaScript
-- Web standards
-- CSS
 - Aria role
 - Rust
 - A bit of... Python, Go, etc
