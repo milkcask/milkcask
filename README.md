@@ -21,10 +21,9 @@
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌
+- Rich text data structures
+- Serialization
 - Web foundations and standards
-- Aria roles
-- Cryptography
-- LLM generated CSS
 
 👩🏻‍💻 I speaks ...
 - TypeScript/JavaScript
