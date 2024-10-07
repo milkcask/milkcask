@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently patching ...
+🔭 I’m patching ...
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [deno](https://github.com/denoland/deno)
