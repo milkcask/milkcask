@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-🔭 I’m currently working on ...
+🔭 I’m currently involved ...
 - [petgraph](https://github.com/petgraph/petgraph)
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [deno](https://github.com/denoland/deno)
 - [kew](https://github.com/milkcask/kew)
 
-🌱 I used to be active in ...
+🌱 I used to be active ...
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev)
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)
