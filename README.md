@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 🔭 I’m currently involved ...
-- [petgraph](https://github.com/petgraph/petgraph)
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [deno](https://github.com/denoland/deno)
@@ -18,6 +17,7 @@
 
 🤔 Random snippets of code that is quite fun...
 - [random-snippets](https://github.com/milkcask/random-snippets)
+- [petgraph](https://github.com/petgraph/petgraph)
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌
