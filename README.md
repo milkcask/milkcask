@@ -6,11 +6,11 @@
 - [deno](https://github.com/denoland/deno)
 - [petgraph](https://github.com/petgraph/petgraph)
 - [kew](https://github.com/milkcask/kew)
+- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
 
 🌱 I used to be active ...
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev)
-- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)
 - [django](https://github.com/django/django)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 - [debian distro](https://www.debian.org)
