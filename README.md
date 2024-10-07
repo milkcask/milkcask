@@ -21,7 +21,7 @@
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌
-- Rich text data structures
+- Rich text data structures, KeyboardEvent
 - Serialization
 - Web foundations and standards
 
