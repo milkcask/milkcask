@@ -22,12 +22,12 @@
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌
 - Web foundations and standards
+- Aria roles
 - Cryptography
 - LLM generated CSS
 
 💬 I speaks ...
 - TypeScript/JavaScript
-- Aria role
 - Rust
 - A bit of... Python, Go, etc
 - And 4 natural languages
