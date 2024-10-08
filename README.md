@@ -20,10 +20,11 @@
 - [random-snippets](https://github.com/milkcask/random-snippets)
 
 💬 Ask me about ...
-- TypeScript golf ⛳️🏌
+- TypeScript internals ⛳️🏌
 - Rich text data structures, KeyboardEvent
 - Serialization
 - Web foundations and standards
+- Linux kernel mod
 
 👩🏻‍💻 I speaks ...
 - TypeScript/JavaScript
