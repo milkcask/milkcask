@@ -25,7 +25,6 @@
 - Rich text data structures, KeyboardEvent
 - Serialization
 - Web foundations and standards
-- Linux kernel mod
 
 👩🏻‍💻 I speaks ...
 - TypeScript/JavaScript
