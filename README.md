@@ -5,9 +5,11 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [deno](https://github.com/denoland/deno)
 - [petgraph](https://github.com/petgraph/petgraph)
+- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
+
+🧸 Some toys
 - [kew](https://github.com/milkcask/kew)
 - [linux-usbhid-rs](https://github.com/milkcask/linux-usbhid-rs)
-- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
 
 🌱 I used to be active ...
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
