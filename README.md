@@ -24,9 +24,8 @@
 - [random-snippets](https://github.com/milkcask/random-snippets)
 
 💬 Ask me about ...
-- TypeScript internals ⛳️🏌
-- Rich text data structures, KeyboardEvent
-- Serialization
+- TypeScript golf ⛳️🏌, transpiler internals
+- Rich text data structures, KeyboardEvent, internationalisation, CJK IME, Serialisation
 - Web foundations and standards
 
 👩🏻‍💻 I speaks ...
