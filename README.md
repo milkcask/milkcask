@@ -13,7 +13,7 @@
 
 🌱 I used to be active ...
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-- [gecko](https://github.com/mozilla/gecko-dev) right-to-left language support, internationalisation standard back in 2010
+- [gecko](https://github.com/mozilla/gecko-dev) right-to-left language support, vertical inline CSS, internationalisation standard back in 2010
 - [alaveteli](https://github.com/mysociety/alaveteli)
 - [django](https://github.com/django/django)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
