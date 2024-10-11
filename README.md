@@ -25,7 +25,7 @@
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌, transpiler internals
 - Rich text data structures, KeyboardEvent, internationalisation, CJK IME, Serialisation
-- Web foundations and standards
+- Web API and standards
 
 👩🏻‍💻 I speaks ...
 - TypeScript/JavaScript
