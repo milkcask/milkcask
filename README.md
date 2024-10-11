@@ -9,7 +9,6 @@
 
 🧸 Some toys
 - [kew](https://github.com/milkcask/kew)
-- [linux-usbhid-rs](https://github.com/milkcask/linux-usbhid-rs)
 
 🌱 I used to be active ...
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
