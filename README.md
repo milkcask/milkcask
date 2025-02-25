@@ -3,7 +3,6 @@
 🔭 I’m patching ...
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-- [deno](https://github.com/denoland/deno)
 - [petgraph](https://github.com/petgraph/petgraph)
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
 
@@ -29,8 +28,7 @@
 
 👩🏻‍💻 I speaks ...
 - TypeScript/JavaScript
-- Rust
-- A bit of... Python, Go, etc
+- A bit of Rust, Python...
 - And 4 natural languages
 
 
