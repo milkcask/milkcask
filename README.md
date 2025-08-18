@@ -32,7 +32,7 @@
 - And 4 natural languages
 
 🧐 A note ...
-- If you are reading this and you are hiring for a SaaS, please understand that I'm not intrested in working on just CRUD (including merely passing data to foundational model providers’ apis). I'd rather solve problems.
+- If you are reading this and you are hiring for a SaaS, please understand that I'm not interested in working on just CRUD (including merely passing data to foundational model providers’ apis). I'd rather solve problems.
 
 <!--
 **milkcask/milkcask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
