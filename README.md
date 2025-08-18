@@ -23,12 +23,12 @@
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌, transpiler internals
-- Rich text data structures, KeyboardEvent, internationalisation, CJK IME, Serialisation
+- Collborative rich text data structures, KeyboardEvent, internationalisation, CJK IME, Serialisation
 - Web API and standards
 
 👩🏻‍💻 I speaks ...
-- TypeScript/JavaScript
-- A bit of Rust, Python...
+- TypeScript, Rust
+- A bit of Python, PHP, Ruby...
 - And 4 natural languages
 
 
