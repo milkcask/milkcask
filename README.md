@@ -15,7 +15,7 @@
 - [django](https://github.com/django/django)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 - [debian distro](https://www.debian.org)
-- and more... -->
+- and more... 
 
 🤔 Random snippets of code that is quite fun...
 - [random-snippets](https://github.com/milkcask/random-snippets) -->
