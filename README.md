@@ -6,6 +6,7 @@
 - [petgraph](https://github.com/petgraph/petgraph)
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
 - [chinese-telegraph-rs](https://docs.rs/chinese-telegraph/0.2.2/chinese_telegraph/index.html)
+- [bevy_panorbit_camera](https://github.com/milkcask/bevy_panorbit_camera), forked to add WASD support
 
 
 <!-- 🌱 I used to be active ...
