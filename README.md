@@ -7,7 +7,7 @@
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
 - [chinese-telegraph-rs](https://docs.rs/chinese-telegraph/0.2.2/chinese_telegraph/index.html)
 - [bevy_panorbit_wasd_camera](https://github.com/milkcask/bevy_panorbit_wasd_camera), forked from [bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera) to add WASD support
-- [martini_rtin](https://github.com/milkcask/martini_rtin), rust implementation of RTIN based on Mapbox's MARTINI
+- [martini_rtin](https://github.com/milkcask/martini_rtin), Rust implementation of RTIN based on Mapbox's MARTINI
 
 
 <!-- 🌱 I used to be active ...
