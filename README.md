@@ -5,15 +5,15 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [petgraph](https://github.com/petgraph/petgraph)
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) related issues
-- [chinese-telegraph-rs](https://docs.rs/chinese-telegraph/0.2.2/chinese_telegraph/index.html)
 - [bevy_panorbit_wasd_camera](https://github.com/milkcask/bevy_panorbit_wasd_camera), forked from [bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera) to add WASD support
 - [martini_rtin](https://github.com/milkcask/martini_rtin), Rust implementation of RTIN based on Mapbox's MARTINI
 
 
-<!-- 🌱 I used to be active ...
+🌱 I used to be active ...
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
 - [gecko](https://github.com/mozilla/gecko-dev) right-to-left language support, vertical inline CSS, internationalisation standard back in 2010
 - [alaveteli](https://github.com/mysociety/alaveteli)
+<!-- 
 - [django](https://github.com/django/django)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 - [debian distro](https://www.debian.org)
@@ -32,8 +32,8 @@
 - A bit of WGSL, C, Python, PHP, Ruby...
 - And 4 natural languages
 
-<!--🧐 A note ...
-- If you are reading this and you are hiring for a SaaS, please understand that I'm not interested in working on just CRUD (including merely passing data to foundational model providers’ apis). I'd rather solve problems. -->
+🧐 A note ...
+- If you are reading this and you are hiring for a SaaS, please understand that I'm not interested in working on just CRUD (including merely passing data to foundational model providers’ apis). I'd rather solve problems.
 
 <!--
 **milkcask/milkcask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
