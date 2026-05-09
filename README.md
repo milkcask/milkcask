@@ -24,13 +24,13 @@
 
 💬 Ask me about ...
 - TypeScript golf ⛳️🏌, transpiler internals
-- Collborative rich text data structures, KeyboardEvent, internationalisation, CJK IME, Serialisation
+- Conflict-free replicated data type, collaborative rich text editing, KeyboardEvent, internationalisation, Serialisation
 - Web API and standards
 
 👩🏻‍💻 I speaks ...
 - Rust, TypeScript
 - A bit of WGSL, C, Python, PHP, Ruby...
-- And 6 natural languages
+- And 4 natural languages
 
 <!--🧐 A note ...
 - If you are reading this and you are hiring for a SaaS, please understand that I'm not interested in working on just CRUD (including merely passing data to foundational model providers’ apis). I'd rather solve problems. -->
